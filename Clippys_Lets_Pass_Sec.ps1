@@ -1,6 +1,4 @@
 ﻿cls
-cls
-cls
 
 <#CLIPPY ART#>
 $clipply = "
