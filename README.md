@@ -4,5 +4,5 @@ Github has an IDE similar to Visual Studio as Microsoft also owns GitHub
 
 Use discussion board for homework help.
 
-#Student Instructions
+#Student-Instructions
 Navigate to your teams branch and assignment, then upload your work! I submit pull requests each day at ~1700.
